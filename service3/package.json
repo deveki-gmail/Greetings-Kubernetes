@@ -1,0 +1,12 @@
+{
+  "name": "service3",
+  "version": "1.0.0",
+  "description": "Greeting Service 3",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.0.0"
+  }
+}
