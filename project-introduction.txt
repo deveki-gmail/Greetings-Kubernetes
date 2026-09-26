@@ -1,0 +1,2 @@
+This Sample Project contains one react app and two node js apps.
+docker images will be availabled to docker hub and to run these app on kuberenetes related yaml files are also present.
