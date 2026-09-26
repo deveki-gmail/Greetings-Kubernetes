@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: service3
-          image: greeting-service3:1.0
+          image: devekinandan/greeting-service3:1.0
 
           imagePullPolicy: IfNotPresent
 
